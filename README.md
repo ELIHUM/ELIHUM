@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Salut ! 👋 Hello! I'm Eliel Mukaz</h1>
+<h1 align="center">Salut ! Hello! I'm Eliel Mukaz</h1>
 <h3 align="center">Étudiant en informatique appliquée | Applied Computer Science Student</h3>
 <h4 align="center">Passionné par l'IA et le développement logiciel | Passionate about AI & Software Development</h4>
 
@@ -29,8 +29,8 @@ I'm dreaming about artificial intelligence, educational tech, and innovation. �
 
 ### 📌 À propos de moi | About Me
 
-- 🔧 Je peux vous aider sur | I can help with: **C++, Python, UML, Java, MySQL**
-- 🌱 J’apprends actuellement | Currently learning: **React, TensorFlow, Linux, Docker**
+- 🔧 Je peux vous aider sur | I can help with: **C++, Python, UML, MySQL**
+- 🌱 J’apprends actuellement | Currently learning: **React, Linux**
 - 🎓 Étudiant à l’Université de Moncton – Informatique appliquée  
   🎓 Student at Université de Moncton – Applied Computer Science
 - 📬 Contact : eem0375@umoncton.ca
@@ -54,7 +54,6 @@ I'm dreaming about artificial intelligence, educational tech, and innovation. �
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
