@@ -29,13 +29,13 @@ I'm dreaming about artificial intelligence, educational tech, and innovation. �
 
 ### 📌 À propos de moi | About Me
 
-- 🔧 Je peux vous aider sur | I can help with: **C++, Python, UML, MySQL**
-- 🌱 J’apprends actuellement | Currently learning: **React, Linux**
+- 🔧 Je peux vous aider sur | I can help with: **C++,java, c, javascript, Html css, Python, UML, MySQL**
+- 🌱 J’apprends actuellement | Currently learning: **Machine learning, vision par Ordinateur(imagerie exploitant AI en industrie)**
 - 🎓 Étudiant à l’Université de Moncton – Informatique appliquée  
   🎓 Student at Université de Moncton – Applied Computer Science
 - 📬 Contact : eem0375@umoncton.ca
 - 🌐 Mon GitHub : [github.com/ELIHUM](https://github.com/ELIHUM)
-- 💡 Fait amusant : je suis aussi animateur scientifique bénévole  
+- 💡 Fait amusant : je suis aussi animateur scientifique bénévole, a Maison Nazareth, Magma, Faubourg du Mascaret 
   💡 Fun fact: I'm also a volunteer science educator
 
 ---
@@ -58,6 +58,18 @@ I'm dreaming about artificial intelligence, educational tech, and innovation. �
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg"  width="40"/>
+          
+          
+          
+          
+          
+          
 </p>
 
 ---
